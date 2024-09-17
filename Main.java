@@ -1,4 +1,4 @@
-https://www.online-java.com/gF19nQZRbPclass Main{
+https://www.online-java.com/gF19nQZRbP
 // Names: Jaskaran and Luan  Date: 9/16/24  Title: Typical day at EHS
 import java.util.Scanner;
 class Main{
